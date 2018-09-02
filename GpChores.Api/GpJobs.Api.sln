@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GpJobs.Api", "GpChores.Api\GpJobs.Api.csproj", "{49087DA6-F3A1-4E3F-BB80-54A7A983A852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GpJobs.Tests", "GpChores.Tests\GpJobs.Tests.csproj", "{C4E40910-689D-44CB-A5FD-351DAE528592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49087DA6-F3A1-4E3F-BB80-54A7A983A852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49087DA6-F3A1-4E3F-BB80-54A7A983A852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49087DA6-F3A1-4E3F-BB80-54A7A983A852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49087DA6-F3A1-4E3F-BB80-54A7A983A852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E40910-689D-44CB-A5FD-351DAE528592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E40910-689D-44CB-A5FD-351DAE528592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E40910-689D-44CB-A5FD-351DAE528592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E40910-689D-44CB-A5FD-351DAE528592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3F6C48F-1F77-4B3F-9B0E-8DCED86A98AA}
+	EndGlobalSection
+EndGlobal
